@@ -1,6 +1,6 @@
 # Start: PWR Description
 
-from cegalprizm.scripting_server import WorkflowDescription
+from cegalprizm.pycoderunner import WorkflowDescription
 
 pwr_description = WorkflowDescription(name="Smooth log",
                                       category="Well",
